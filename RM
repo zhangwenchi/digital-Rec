@@ -1,0 +1,17 @@
+The method I use:
+(use sklearn as well as I implement it by myself)
+
+1.KNN   (√)
+2.decision tree (X X √)
+3.SVM(sort of √)
+4.Netural Network
+5.logistic regression
+6.adaboost
+7.CART, Classification and Regression Trees & C4.5 decision Tree
+8.Ridge and other regressions
+
+
+(2)After all this I should draw my result!!!!!!
+
+(3)Use caffe & tensorflow!!!!!!
+
